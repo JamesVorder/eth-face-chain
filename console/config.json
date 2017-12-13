@@ -1,0 +1,6 @@
+{
+  "addr": "http://localhost:8545",
+  "project_dir": "/Users/jamesvorderbruggen/Documents/Source/eth-face-chain/console",
+  "contract_dir": "/Users/jamesvorderbruggen/Documents/Source/eth-face-chain/contracts",
+  "master_contract": "0x5753849860c6426962575b1c4a608d09d7e0fef4"
+}
